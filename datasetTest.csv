@@ -1,0 +1,1187 @@
+basic,Je veux aller de Paris à Lyon,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille,Bordeaux,Lille,,
+basic,Connection Paris - Marseille,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Lyon à Marseille.,Lyon,Marseille,,
+basic,Trajet de Toulouse vers Bordeaux.,Toulouse,Bordeaux,,
+basic,Comment aller de Marseille à Nice?,Marseille,Nice,,
+basic,Quel est le trajet de Nantes à Lille?,Nantes,Lille,,
+basic,Connection Lyon - Paris.,Lyon,Paris,,
+basic,Je cherche un itinéraire entre Rennes et Strasbourg.,Rennes,Strasbourg,,
+basic,Déplacement de Dijon à Montpellier.,Dijon,Montpellier,,
+basic,Voyage de Reims à Saint-Étienne.,Reims,Saint-Étienne,,
+basic,Parcours de Angers à Tours.,Angers,Tours,,
+basic,Liaison Brest - Clermont-Ferrand.,Brest,Clermont-Ferrand,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Besançon à Limoges.,Besançon,Limoges,,
+basic,Trajet Toulon - Grenoble.,Toulon,Grenoble,,
+basic,Je dois me rendre à Lille depuis Nantes.,Nantes,Lille,,
+basic,Connection directe Nice - Bordeaux.,Nice,Bordeaux,,
+stopover,Je veux aller de Marseille à Paris en passant par Lyon.,Marseille,Paris,Lyon,
+stopover,Trajet Toulouse - Bordeaux - Nantes.,Toulouse,Nantes,Bordeaux,
+stopover,Comment faire Nice → Marseille via Toulon?,Nice,Marseille,Toulon,
+stopover,Itinéraire Paris vers Lyon via Dijon.,Paris,Lyon,Dijon,
+stopover,Parcours de Marseille à Nice avec escale à Toulon.,Marseille,Nice,Toulon,
+stopover,Route Strasbourg → Reims → Lille.,Strasbourg,Lille,Reims,
+stopover,Voyage de Bordeaux à Montpellier en passant par Toulouse.,Bordeaux,Montpellier,Toulouse,
+stopover,Trajet de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Lyon d'habitude mais là je suis à Marseille et je voudrais aller à Nice.,Lyon,Nice,,Marseille
+noisy,Je suis actuellement à Bordeaux mais je dois voyager de Toulouse à Nantes.,Toulouse,Nantes,,Bordeaux
+noisy,Mon trajet commence à Paris, je suis passé par Marseille et je vais à Lyon.,Paris,Lyon,,Marseille
+noisy,Depuis Lille, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Lille
+noisy,Je voyage de Bordeaux à Nantes, et je suis parti de Paris.,Bordeaux,Nantes,,Paris
+noisy,Un trajet de Dijon à Montpellier, en commençant de Lyon.,Dijon,Montpellier,,Lyon
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
+stopover,Trajet Grenoble - Valence - Lyon.,Grenoble,Lyon,Valence,
+stopover,Route Marseille → Montpellier → Toulouse.,Marseille,Toulouse,Montpellier,
+stopover,Itinéraire Lille - Reims - Paris.,Lille,Paris,Reims,
+stopover,Parcours Brest → Rennes → Nantes.,Brest,Nantes,Rennes,
+noisy,J'habite à Paris d'habitude mais là je suis à Marseille et je voudrais aller à Lyon.,Paris,Lyon,,Marseille
+noisy,Je suis actuellement à Lille mais je dois voyager de Bordeaux à Nantes.,Bordeaux,Nantes,,Lille
+noisy,Mon trajet commence à Lyon, je suis passé par Marseille et je vais à Nice.,Lyon,Nice,,Marseille
+noisy,Depuis Toulouse, je veux me rendre de Paris à Strasbourg.,Paris,Strasbourg,,Toulouse
+noisy,Je voyage de Nantes à Bordeaux, et je suis parti de Paris.,Nantes,Bordeaux,,Paris
+noisy,Un trajet de Saint-Étienne à Dijon, en commençant de Montpellier.,Saint-Étienne,Dijon,,Montpellier
+noisy,D'habitude je suis à Reims, mais aujourd'hui je vais de Lille à Strasbourg.,Lille,Strasbourg,,Reims
+noisy,Je suis à Clermont-Ferrand temporairement et je dois aller de Tours à Angers.,Tours,Angers,,Clermont-Ferrand
+noisy,Normalement je vis à Nice, mais mon voyage est de Marseille à Toulon.,Marseille,Toulon,,Nice
+noisy,Je me trouve actuellement à Orléans, mais je dois voyager de Brest à Rennes.,Brest,Rennes,,Orléans
+noisy,Mon point de départ était Dijon, mais je vais de Paris à Lyon.,Paris,Lyon,,Dijon
+noisy,Habituellement à Limoges, je dois maintenant aller de Bordeaux à Toulouse.,Bordeaux,Toulouse,,Limoges
+basic,Je veux aller de Paris à Lyon.,Paris,Lyon,,
+basic,Trajet de Marseille vers Toulouse.,Marseille,Toulouse,,
+basic,Comment aller de Nice à Nantes?,Nice,Nantes,,
+basic,Quel est le trajet de Bordeaux à Lille?,Bordeaux,Lille,,
+basic,Connection Paris - Marseille.,Paris,Marseille,,
+basic,Je cherche un itinéraire entre Strasbourg et Rennes.,Strasbourg,Rennes,,
+basic,Déplacement de Montpellier à Dijon.,Montpellier,Dijon,,
+basic,Voyage de Saint-Étienne à Reims.,Saint-Étienne,Reims,,
+basic,Parcours de Tours à Angers.,Tours,Angers,,
+basic,Liaison Clermont-Ferrand - Brest.,Clermont-Ferrand,Brest,,
+basic,Direction Le Mans depuis Orléans.,Orléans,Le Mans,,
+basic,Route de Limoges à Besançon.,Limoges,Besançon,,
+basic,Trajet Grenoble - Toulon.,Grenoble,Toulon,,
+basic,Je dois me rendre à Nantes depuis Lille.,Lille,Nantes,,
+basic,Connection directe Bordeaux - Nice.,Bordeaux,Nice,,
+stopover,Je veux aller de Paris à Marseille en passant par Lyon.,Paris,Marseille,Lyon,
+stopover,Trajet Paris - Lyon - Marseille.,Paris,Marseille,Lyon,
+stopover,Comment faire Toulouse → Bordeaux → Nantes?,Toulouse,Nantes,Bordeaux,
+stopover,Itinéraire Nice vers Marseille via Toulon.,Nice,Marseille,Toulon,
+stopover,Parcours de Paris à Lyon avec escale à Dijon.,Paris,Lyon,Dijon,
+stopover,Route Marseille → Toulon → Nice.,Marseille,Nice,Toulon,
+stopover,Voyage de Strasbourg à Lille en passant par Reims.,Strasbourg,Lille,Reims,
+stopover,Trajet Bordeaux - Toulouse - Montpellier.,Bordeaux,Montpellier,Toulouse,
+stopover,Itinéraire de Nice à Marseille via Toulon et Avignon.,Nice,Marseille,Toulon,
+stopover,Route Paris → Dijon → Lyon.,Paris,Lyon,Dijon,
+stopover,Parcours Clermont-Ferrand - Saint-Étienne - Lyon.,Clermont-Ferrand,Lyon,Saint-Étienne,
+stopover,Voyage Nantes → Le Mans → Tours.,Nantes,Tours,Le Mans,
